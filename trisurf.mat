@@ -1,4 +1,0 @@
-tri = delaunay(x,y)
-[r,c] = size(tri);
-disp(r)
-h = trisurf(tri, x, y, z)
